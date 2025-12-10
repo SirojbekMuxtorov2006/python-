@@ -21,3 +21,5 @@ radius = 5
 pi = 3.14159
 aylana_yuzi = pi * radius**2
 print("Radius:", radius, "ga teng aylananing yuzi=", aylana_yuzi)
+
+
